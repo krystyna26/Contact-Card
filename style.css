@@ -1,0 +1,62 @@
+body{
+    width: 1000px;
+    height: 1000px;
+}
+.adduser{
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+}
+.table1{
+    display: block;
+    height: 124px;
+    width: 260px;
+    margin: 10px;
+    border: 1px solid black;;
+}
+.tables{
+    display: inline-block;
+}
+tr{
+    border: 1px solid black; 
+}
+th{ 
+    display: inline-block;
+    margin: 5px 10px;
+    width: 84px;
+    text-align: left;
+}
+.des{
+    display: inline-block;
+    margin: 5px 10px;
+    width: 235px;
+    text-align: center;
+}
+h2{
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    display: inline;
+}
+td{
+    /* display: inline-block; */
+    margin: 5px 30px;
+    width: 150px;
+}
+.h1{
+    border-bottom: 2px solid darkgray;
+    width: 340px;
+}
+.myform{
+    display: block;
+    width: 237px;
+}
+form{
+    text-align: right;
+}
+input{
+    margin: 5px;
+}
+button{
+    margin: 5px 6px 20px 150px;
+}
